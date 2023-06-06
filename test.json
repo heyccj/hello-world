@@ -1,0 +1,538 @@
+[
+   {
+      "eventID":167099339,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9102996\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9102996\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-06-09T10:00:00",
+      "endDateTime":"2023-06-09T10:45:00",
+      "dateTimeFormatted":"Friday, June 9, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099339",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/0jzvkncsv9yxszp4jttsnwkbpa",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099340,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9102997\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9102997\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-06-16T10:00:00",
+      "endDateTime":"2023-06-16T10:45:00",
+      "dateTimeFormatted":"Friday, June 16, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099340",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/8e8y7eaxdvm5enun67sh8brtcp",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099341,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9102998\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9102998\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-06-23T10:00:00",
+      "endDateTime":"2023-06-23T10:45:00",
+      "dateTimeFormatted":"Friday, June 23, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099341",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/sj6tyxwa9eyttkf0ev9x3mt3sf",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099342,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9102999\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9102999\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-06-30T10:00:00",
+      "endDateTime":"2023-06-30T10:45:00",
+      "dateTimeFormatted":"Friday, June 30, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099342",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/8a488y7kbhkkjyt24dg6rk1h6x",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099343,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9103000\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9103000\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-07-07T10:00:00",
+      "endDateTime":"2023-07-07T10:45:00",
+      "dateTimeFormatted":"Friday, July 7, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099343",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/0h0fd95p38sw51xeww3p3g3a2u",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099344,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9103001\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9103001\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-07-14T10:00:00",
+      "endDateTime":"2023-07-14T11:00:00",
+      "dateTimeFormatted":"Friday, July 14, 2023, 10&nbsp;&ndash;&nbsp;11am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099344",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/gc8wkwa3vk9esxjckmudw2gu01",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099345,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9103002\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9103002\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-07-21T10:00:00",
+      "endDateTime":"2023-07-21T10:45:00",
+      "dateTimeFormatted":"Friday, July 21, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099345",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/gra7drp9pbze204hfd3u18uvvv",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099346,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9103003\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9103003\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-07-28T10:00:00",
+      "endDateTime":"2023-07-28T10:45:00",
+      "dateTimeFormatted":"Friday, July 28, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099346",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/wvhen4kw6vxxfnkecc8ndgetug",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167099347,
+      "template":"Belmont University Event",
+      "title":"Belmont USA Virtual Session",
+      "description":"Interested in an internship or immersion program through Belmont USA? Join us at a Virtual Info Session and learn more about Belmont East in New York City, Belmont West in Los Angeles, Belmont USA at the Washington Internship Institute, Belmont USA in Oregon. Learn more about internship and immersion opportunities, the application process and more.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9103004\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9103004\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-08-04T10:00:00",
+      "endDateTime":"2023-08-04T10:45:00",
+      "dateTimeFormatted":"Friday, August 4, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgCaxzw2H-gbA0chX-nUZxXp.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Career Readiness|ThoughtfulLearning",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167099347",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/m4z14yadx90btus5jgxr6c8agp",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167323553,
+      "template":"Belmont University Event",
+      "title":"FALL CHAPEL KICKOFF: &quot;Who Are You Becoming?&quot; with Rev. Heather Daugherty",
+      "description":"Join us on Monday, August 28th at 10:00am for the FALL CHAPEL KICKOFF in the beautiful Gabhart Chapel located on the ground floor of the Janet Ayers Academic Center (JAAC). This is a time that sets the tone for Chapel for the rest of the year, with a message from our University Minister, Rev. Heather Daugherty.Our chapel theme for this year is &quot;Who Are You Becoming?&quot;&#160;We spend a lot of time in our lives thinking about what we want to do, but what if we spent more time thinking about who we are becoming and what is giving our lives purpose and meaning.",
+      "locationType":"In-Person",
+      "location":"JAAC Chapel",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9110293\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9110293\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-08-28T10:00:00",
+      "endDateTime":"2023-08-28T10:45:00",
+      "dateTimeFormatted":"Monday, August 28, 2023, 10&nbsp;&ndash;&nbsp;10:45am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgBJeb5XfD0ZFQuVIgu4iaMS.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgBJeb5XfD0ZFQuVIgu4iaMS.jpg",
+         "size":{
+            "width":600,
+            "height":360
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Chapel|Spirituality|University Ministries|WELL Core - Spiritual Well-Being",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167323553",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/cb7kh1eugwya52bv6wtbpx6yup",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
+   {
+      "eventID":167323185,
+      "template":"Belmont University Event",
+      "title":"Wellness for Musicians",
+      "description":"This talk will focus on general mental and physical wellness strategies for musicians though the strategies are applicable to many if not all students. The talk will be led by two faculty in the School of Occupational Therapy -- Dr. Katy Schmidt and Dr. LaRae Murray.",
+      "locationType":"In-Person",
+      "location":"Harton Recital Hall in MPAC",
+      "webLink":"<a href=\"https://belmont.campuslabs.com/engage/event/9097586\" target=\"_blank\" rel=\"noopener\" title=\"https://belmont.campuslabs.com/engage/event/9097586\">belmont.campuslabs.com&#8230;</a>",
+      "startDateTime":"2023-09-13T10:00:00",
+      "endDateTime":"2023-09-13T11:00:00",
+      "dateTimeFormatted":"Wednesday, September 13, 2023, 10&nbsp;&ndash;&nbsp;11am&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "customFields":[
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"ThoughtfulLearning|WELL Core - Interpersonal, Emotional and Physical Well-being",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d167323185",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-bruinlink#/actions/gm4k7v6g630wtzgab3vefjggyd",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   }
+]
