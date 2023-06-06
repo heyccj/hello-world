@@ -1,58 +1,58 @@
 [
-    {
-       "eventID":166679689,
-       "template":"Belmont University Event",
-       "title":"September Preview Day",
-       "description":"At Preview Day you&#39;ll learn about applying to the university and our scholarship process, have a Q&amp;A session with current students about life on campus, and explore your&#160;academic area of interest. You&#39;ll meet current students and faculty in your program and tour our amazing facilities, both in and outside your intended program of study. Also you&#39;ll get an in-depth look at student life on campus which includes getting a glimpse of all of our freshman&#160;residence halls.",
-       "locationType":"In-Person",
-       "location":"Curb Event Center",
-       "webLink":"<a href=\"https://apply.belmont.edu/register/?id=45b5446e-4bba-42a2-bf43-8c2851cda458\" target=\"_blank\" rel=\"noopener\" title=\"https://apply.belmont.edu/register/?id=45b5446e-4bba-42a2-bf43-8c2851cda458\">apply.belmont.edu&#8230;</a>",
-       "startDateTime":"2023-09-16T08:00:00",
-       "endDateTime":"2023-09-16T15:00:00",
-       "dateTimeFormatted":"Saturday, September 16, 2023, 8am&nbsp;&ndash;&nbsp;3pm&nbsp;CDT",
-       "allDay":false,
-       "startTimeZoneOffset":"-0500",
-       "endTimeZoneOffset":"-0500",
-       "canceled":false,
-       "openSignUp":false,
-       "reservationFull":false,
-       "pastDeadline":false,
-       "pastCancelDeadline":false,
-       "requiresPayment":false,
-       "refundsAllowed":false,
-       "waitingListAvailable":false,
-       "eventImage":{
-          "url":"https://www.trumba.com/i/DgBw1EplIco6-c9RM%2AHNQFHr.jpg",
-          "size":{
-             "width":1225,
-             "height":816
-          }
-       },
-       "detailImage":{
-          "url":"https://www.trumba.com/i/DgBw1EplIco6-c9RM%2AHNQFHr.jpg",
-          "size":{
-             "width":1225,
-             "height":816
-          }
-       },
-       "customFields":[
-          {
-             "fieldID":60592,
-             "label":"Cost",
-             "value":"Free",
-             "type":0
-          },
-          {
-             "fieldID":60593,
-             "label":"Category",
-             "value":"Office of Admissions",
-             "type":17
-          }
-       ],
-       "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d166679689",
-       "eventActionUrl":"https://eventactions.com/eventactions/belmont-admissions#/actions/wggh9s3zsmu84t3zrc8ewsskcy",
-       "categoryCalendar":"Belmont University Events|Admissions Events Calendar",
-       "registrationTransferTargetCount":0,
-       "regAllowChanges":true
-    },
+   {
+      "eventID":166679689,
+      "template":"Belmont University Event",
+      "title":"September Preview Day",
+      "description":"At Preview Day you&#39;ll learn about applying to the university and our scholarship process, have a Q&amp;A session with current students about life on campus, and explore your&#160;academic area of interest. You&#39;ll meet current students and faculty in your program and tour our amazing facilities, both in and outside your intended program of study. Also you&#39;ll get an in-depth look at student life on campus which includes getting a glimpse of all of our freshman&#160;residence halls.",
+      "locationType":"In-Person",
+      "location":"Curb Event Center",
+      "webLink":"<a href=\"https://apply.belmont.edu/register/?id=45b5446e-4bba-42a2-bf43-8c2851cda458\" target=\"_blank\" rel=\"noopener\" title=\"https://apply.belmont.edu/register/?id=45b5446e-4bba-42a2-bf43-8c2851cda458\">apply.belmont.edu&#8230;</a>",
+      "startDateTime":"2023-09-16T08:00:00",
+      "endDateTime":"2023-09-16T15:00:00",
+      "dateTimeFormatted":"Saturday, September 16, 2023, 8am&nbsp;&ndash;&nbsp;3pm&nbsp;CDT",
+      "allDay":false,
+      "startTimeZoneOffset":"-0500",
+      "endTimeZoneOffset":"-0500",
+      "canceled":false,
+      "openSignUp":false,
+      "reservationFull":false,
+      "pastDeadline":false,
+      "pastCancelDeadline":false,
+      "requiresPayment":false,
+      "refundsAllowed":false,
+      "waitingListAvailable":false,
+      "eventImage":{
+         "url":"https://www.trumba.com/i/DgBw1EplIco6-c9RM%2AHNQFHr.jpg",
+         "size":{
+            "width":1225,
+            "height":816
+         }
+      },
+      "detailImage":{
+         "url":"https://www.trumba.com/i/DgBw1EplIco6-c9RM%2AHNQFHr.jpg",
+         "size":{
+            "width":1225,
+            "height":816
+         }
+      },
+      "customFields":[
+         {
+            "fieldID":60592,
+            "label":"Cost",
+            "value":"Free",
+            "type":0
+         },
+         {
+            "fieldID":60593,
+            "label":"Category",
+            "value":"Office of Admissions",
+            "type":17
+         }
+      ],
+      "permaLinkUrl":"http://stage.belmont.edu/events?trumbaEmbed=view%3devent%26eventid%3d166679689",
+      "eventActionUrl":"https://eventactions.com/eventactions/belmont-admissions#/actions/wggh9s3zsmu84t3zrc8ewsskcy",
+      "categoryCalendar":"Belmont University Events|BruinLink Events",
+      "registrationTransferTargetCount":0,
+      "regAllowChanges":true
+   },
 ]
